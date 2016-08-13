@@ -1,2 +1,12 @@
-this is a git repository
-hello world
+这是一个nodejs+express+mongodb入门级博客
+包括以下功能：
+1，注册，登录
+2，发表文章
+3，上传文件
+4，文件编辑
+5，存档
+6，标签
+7，留言
+8，pv统计和留言统计
+9，标题关键字查询
+10，友情链接
